@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, there! I'm Christaine 👋
+- 🔭 I’m a Full Stack developer and telecommunications engineering student
+
 
 <!--
 **ChristaineMiranda/ChristaineMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
