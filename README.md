@@ -30,6 +30,7 @@ Some tools and languages:
 
 
 key words - HTML, CSS, JavaScript, React, Node, Express, TypeScript, MongoDB, PostgreSQL, Prisma, Redis, Docker, Git
+
 contacts - christaine.miranda@gmail.com | linkedin.com/in/christaine-miranda
 
           
