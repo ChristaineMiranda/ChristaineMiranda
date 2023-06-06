@@ -27,9 +27,7 @@ Some tools and languages:
 <code><a href="mailto: christaine.miranda@gmail.com"/><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="35"/>
           <h1>christaine.miranda@gmail.com</h1>
           </a></code>
-<code><a href="https://www.linkedin.com/in/christaine-miranda"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35"/>
-          <h1>www.linkedin.com/in/christaine-miranda-039aa5119/</h1>
-          </a></code>
+<code><a href="https://www.linkedin.com/in/christaine-miranda"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35"/> - www.linkedin.com/in/christaine-miranda-039aa5119/</a></code>
 
 
 
