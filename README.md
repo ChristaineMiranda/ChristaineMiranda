@@ -27,5 +27,9 @@ Some tools and languages:
 <code><a href="mailto: christaine.miranda@gmail.com"/><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="35"/></a></code>
 <code><a href="https://www.linkedin.com/in/christaine-miranda"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="35"/></a></code>
 
-keys words - HTML, CSS, JavaScript, Node, Express, TypeScript, MongoDB, PostgreSQL, Prisma, Redis, Docker, Git
+
+
+key words - HTML, CSS, JavaScript, React, Node, Express, TypeScript, MongoDB, PostgreSQL, Prisma, Redis, Docker, Git
+contact - christaine.miranda@gmail.com
+          https://www.linkedin.com/in/christaine-miranda-039aa5119/
 
