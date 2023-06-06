@@ -24,12 +24,13 @@ Some tools and languages:
 
 ### Feel free to contact me via email or LinkedIn at 
 
-<code><a href="mailto: christaine.miranda@gmail.com"/><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30"/> - christaine.miranda@gmail.com </a></code>
-<code><a href="https://www.linkedin.com/in/christaine-miranda"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30"/> - linkedin.com/in/christaine-miranda/</a></code>
+<code><a href="mailto: christaine.miranda@gmail.com"/><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="30"/></a></code>
+<code><a href="https://www.linkedin.com/in/christaine-miranda"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30"/>/</a></code>
 
 
 
 key words - HTML, CSS, JavaScript, React, Node, Express, TypeScript, MongoDB, PostgreSQL, Prisma, Redis, Docker, Git
+contacts - christaine.miranda@gmail.com | linkedin.com/in/christaine-miranda
 
           
 
