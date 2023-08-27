@@ -1,4 +1,4 @@
-## Seja muito bem vindos! Prazer, Christaine 👋
+## Sejam muito bem vindos! Prazer, Christaine 👋
 
 ✨Ṕor aqui vocês vão encontrar uma apresentação de um desenvolvedor web✨
 🌱 Aqui você encontrará alguns dos projetos que me acompanharam nos últimos meses ganhando vida
