@@ -3,13 +3,16 @@
 ✨Ṕor aqui vocês vão encontrar a apresentação de uma desenvolvedora web✨
 
 
+
 🌱 Aqui você encontrará alguns dos projetos que me acompanharam nos últimos meses ganhando vida
+
 
 
 🌱 Existem alguns trabalhos full stack, alguns desenvolvendo apenas APIs no backend e outros são SPAs para aplicações frontend dinâmicas
 
 
-🌱 Destaco os mais importantes (ou queridinhos) dessa jornada, com enfoque importante para os trabalhos desenvolvidos em grupos, os maiores e mais desafiadores.
+
+🌱 Destaco os mais importantes (ou queridinhos) dessa jornada, com enfoque importante para os trabalhos desenvolvidos em grupos, os maiores e mais desafiadores
 
 Fique à vontade!
 
